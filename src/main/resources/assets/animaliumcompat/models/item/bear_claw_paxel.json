@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "animaliumcompat:items/bear_claw_paxel"
+    }
+}

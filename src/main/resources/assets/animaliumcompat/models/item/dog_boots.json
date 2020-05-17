@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "animaliumcompat:items/item_dog_boots"
+  }
+}

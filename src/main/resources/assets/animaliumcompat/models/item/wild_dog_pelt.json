@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "animaliumcompat:items/wild_dog_pelt"
+    }
+}

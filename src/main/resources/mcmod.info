@@ -1,20 +1,17 @@
 [
 {
-  "modid": "animalium",
-  "name": "animalium",
-  "description": "Some Aggro Beasts originally made for The Invasion Modpack.",
-  "version": "0.3.8",
+  "modid": "animaliumcompat",
+  "name": "Animalium Compat with Rats mod",
+  "description": "Some Aggro Beasts originally made for The Invasion Modpack. Rats have been removed to make this mod compatible with the Rats Mod by alex1the1666",
+  "version": "${version}",
+  "mcversion": "1.12.",
   "url": "",
   "updateUrl": "",
-  "authorList": [
-    "vadis365"
-  ],
-  "credits": "Thanks to people and stuff.",
+  "authorList": ["vadis365", "p1ut0nium_94"],
+  "credits": "Original Animalium mod created by vadis365.",
   "logoFile": "",
-  "screenshots": [
-  ],
+  "screenshots": [],
   "parent":"",
-  "dependencies": [
-  ]
+  "dependencies": []
 }
 ]
